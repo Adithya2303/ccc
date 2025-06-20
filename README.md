@@ -1,17 +1,8 @@
-<<<<<<< HEAD
-# React + Vite
+# Skill Exchange Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web application for exchanging skills, matching users, and real-time chat.
 
-Currently, two official plugins are available:
+![Skill Exchange Overview](public/Readme.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# ccc
-Skill Exchange Platform
->>>>>>> 2f977259e2e5bd79b43d1c1f64d67bf70642d256
+## About
+Skill Exchange Platform allows users to register, list their skills, specify what they want to learn, find matching users, and chat in real time.
